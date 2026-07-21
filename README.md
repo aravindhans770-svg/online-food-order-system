@@ -86,6 +86,12 @@ This is a static site, so it can be deployed anywhere for free:
 - **Colors & theme:** edit the CSS variables inside `:root` at the top of `styles.css`
 - **Copy/branding:** update the header, about section, and footer text directly in `index.html`
 
+## 📬 Contact
+
+- **Email:** [aravindhans770@gmail.com](mailto:aravindhans770@gmail.com)
+- **GitHub:** [@aravindhans770-svg](https://github.com/aravindhans770-svg)
+- **LinkedIn:** [aravindhan-s](https://www.linkedin.com/in/aravindhan-s-646196387)
+  
 ## 📄 License
 
 This project is open source. Feel free to fork it and adapt it for your own restaurant, cloud kitchen, or ordering demo.
