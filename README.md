@@ -89,9 +89,7 @@ This is a static site, so it can be deployed anywhere for free:
 ## 📬 Contact
 
 - **Email:** [aravindhans770@gmail.com](mailto:aravindhans770@gmail.com)
-- **GitHub:** [@aravindhans770-svg](https://github.com/aravindhans770-svg)
-- **LinkedIn:** [aravindhan-s](https://www.linkedin.com/in/aravindhan-s-646196387)
-  
+
 ## 📄 License
 
 This project is open source. Feel free to fork it and adapt it for your own restaurant, cloud kitchen, or ordering demo.
